@@ -1,0 +1,20 @@
+[{
+  "owner": {
+    "$oid": "65f9a8564fefa61a8ff9d935"
+  },
+  "name": "Updated My phone",
+  "description": "My fav phone",
+  "price": 999,
+  "category": "Electronics",
+  "purchasingDate": {
+    "$date": "2024-03-02T09:56:17.121Z"
+  },
+  "images": [],
+  "thumbnail": "",
+  "createdAt": {
+    "$date": "2024-03-21T19:18:09.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T19:38:27.484Z"
+  }
+}]
